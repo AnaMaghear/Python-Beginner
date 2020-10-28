@@ -1,0 +1,2 @@
+# Progarme Python
+Primele programe
